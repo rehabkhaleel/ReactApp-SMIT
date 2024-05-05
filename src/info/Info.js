@@ -78,32 +78,32 @@ export const info = {
     portfolio: [ 
         {
             title: "Project 1",
-            live: "https://paytonpierce.dev", 
-            source: "https://github.com/paytonjewell", 
+            live: "https://rehabkhaleel.github.io/SMIT-Food-Blog/", 
+            source: "https://github.com/rehabkhaleel/SMIT-Food-Blog", 
             image: mock1
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://rehabkhaleel.github.io/CODSOFT-CALCULATOR/",
+            source: "https://github.com/rehabkhaleel/CODSOFT-CALCULATOR",
             image: mock2
         },
         {
             title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://rehabkhaleel.github.io/CODSOFT-LANDING-PAGE/",
+            source: "https://github.com/rehabkhaleel/CODSOFT-LANDING-PAGE",
             image: mock3
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://rehabkhaleel.github.io/PortFolio-Resume/",
+            source: "https://github.com/rehabkhaleel/PortFolio-Resume",
             image: mock4
         },
         {
             title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "",
+            source: "https://github.com/rehabkhaleel/js-firebase-smit",
             image: mock5
         }
     ]
